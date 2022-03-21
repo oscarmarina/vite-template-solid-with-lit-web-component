@@ -1,0 +1,1 @@
+export default () => <footer>Solid v1.3.12</footer>
